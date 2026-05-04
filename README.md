@@ -17,5 +17,11 @@ Organik SEO Etkisi: Belirlediğiniz anahtar kelimelerle Google üzerinden gerçe
 Anti-Bot Kalkanı: Parmak izi (Fingerprint) manipülasyonu ve Selenium gizleme ile tam gizlilik.
 Esnek Altyapı: Mobil/Masaüstü cihaz seçimi, dinamik proxy desteği ve düşük hemen çıkma oranı.
 Daha yüksek sıralama, daha güçlü SEO otoritesi ve kesintisiz performans!
+GitHub üzerinde açacağın konunun Google aramalarında "nokta atışı" yapabilmesi için hem teknik terimleri hem de kullanıcıların arama alışkanlıklarını kapsayan bir anahtar kelime listesi hazırladım.
+
+Bu kelimeleri GitHub reposunun "About" kısmındaki "Topics" (etiketler) bölümüne ve açıklama metninin en altına ekleyebilirsin.
+
+🚀 Google Organik Hit Botu SEO Etiketleri
+google-organic-traffic, organic-hit-bot, seo-automation, google-search-bot, organic-search-traffic, website-traffic-generator, serp-booster, click-through-rate-optimization, ctr-bot, google-keyword-bot, seo-ranking-software, traffic-bot-2026, organic-visitor-automation, google-rank-tracker, behavioral-traffic-bot, search-engine-optimization, residential-proxy-support, anti-detect-browser-bot, digital-marketing-automation, google-ads-safety, real-user-simulation
 KULLANIM İÇİN İZLEYİNİZ:https://www.youtube.com/watch?v=UQcCh-fVMso
 İLETİŞİM:https://t.me/sercexdestek
