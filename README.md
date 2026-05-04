@@ -19,7 +19,7 @@ Esnek Altyapı: Mobil/Masaüstü cihaz seçimi, dinamik proxy desteği ve düş�
 Daha yüksek sıralama, daha güçlü SEO otoritesi ve kesintisiz performans!
 GitHub üzerinde açacağın konunun Google aramalarında "nokta atışı" yapabilmesi için hem teknik terimleri hem de kullanıcıların arama alışkanlıklarını kapsayan bir anahtar kelime listesi hazırladım.
 
-Bu kelimeleri GitHub reposunun "About" kısmındaki "Topics" (etiketler) bölümüne ve açıklama metninin en altına ekleyebilirsin.
+google-organic-traffic, organic-hit-bot, seo-automation, google-search-bot, organic-search-traffic, website-traffic-generator, serp-booster, click-through-rate-optimization, ctr-bot, google-keyword-bot, seo-ranking-software, traffic-bot-2026, organic-visitor-automation, google-rank-tracker, behavioral-traffic-bot, search-engine-optimization, residential-proxy-support, anti-detect-browser-bot, digital-marketing-automation, google-ads-safety, real-user-simulation
 
 🚀 Google Organik Hit Botu SEO Etiketleri
 google-organic-traffic, organic-hit-bot, seo-automation, google-search-bot, organic-search-traffic, website-traffic-generator, serp-booster, click-through-rate-optimization, ctr-bot, google-keyword-bot, seo-ranking-software, traffic-bot-2026, organic-visitor-automation, google-rank-tracker, behavioral-traffic-bot, search-engine-optimization, residential-proxy-support, anti-detect-browser-bot, digital-marketing-automation, google-ads-safety, real-user-simulation
